@@ -1,0 +1,20 @@
+.gris{
+    background-color: darkgrey;
+    text-align: center;
+    margin: 10;
+    padding: 10;
+    height: 210px;
+    width: 210px;
+    justify-items: flex-start;
+   align-content: space-between;
+   display: inline-block;
+
+}
+.bleue{
+   align-items: center;
+   color: mediumblue;
+}
+.title{
+    text-align: center;
+    color: slategray;
+}
